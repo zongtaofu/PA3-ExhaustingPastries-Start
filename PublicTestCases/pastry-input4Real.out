@@ -1,0 +1,31 @@
+eight costs $35
+eleven costs $496
+five costs $490
+four costs $111
+fourteen costs $507
+nine costs $658
+one costs $81
+seven costs $1320
+six costs $294
+ten costs $329
+thirteen costs $120
+three costs $496
+twelve costs $392
+two costs $890
+
+Can buy eight for $35
+Can buy one for $81
+Can buy four for $111
+Can buy thirteen for $120
+Can buy six for $294
+Can buy ten for $329
+Can buy twelve for $392
+Can buy five for $490
+Can buy eleven for $496
+Can buy three for $496
+Can buy fourteen for $507
+Can buy nine for $658
+Can buy two for $890
+Can buy seven for $1320
+
+The max number of unique pastries that can be bought with $8900 is: 14

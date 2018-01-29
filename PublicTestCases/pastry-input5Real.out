@@ -1,0 +1,32 @@
+a costs $248
+b costs $873
+c costs $240
+d costs $696
+e costs $357
+f costs $20
+g costs $319
+h costs $664
+i costs $510
+j costs $85
+k costs $564
+l costs $651
+m costs $1558
+n costs $576
+o costs $41
+p costs $516
+q costs $448
+
+Can buy f for $20
+Can buy o for $41
+Can buy j for $85
+Can buy c for $240
+Can buy a for $248
+Can buy g for $319
+Can buy e for $357
+Can buy q for $448
+Can buy i for $510
+Can buy p for $516
+Can buy k for $564
+Can buy n for $576
+
+The max number of unique pastries that can be bought with $3376 is: 11

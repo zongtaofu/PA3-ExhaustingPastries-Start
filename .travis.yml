@@ -1,0 +1,7 @@
+install: true
+
+script: python grade.py PA3Main PublicTestCases --outpre pastry --inext in
+
+notifications:
+  on_success: always
+  email: your.github.email@whatever.domain
