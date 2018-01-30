@@ -1,12 +1,9 @@
 ERROR: Incorrect price input
-ERROR: Incorrect price input
 Baguette costs $240
 Blank Pastry costs $0
 Cheese Cake costs $248
-Chocolate Cake costs $873
 
 Can buy Blank Pastry for $0
 Can buy Baguette for $240
-Can buy Cheese Cake for $248
 
 The max number of unique pastries that can be bought with $300 is: 2
